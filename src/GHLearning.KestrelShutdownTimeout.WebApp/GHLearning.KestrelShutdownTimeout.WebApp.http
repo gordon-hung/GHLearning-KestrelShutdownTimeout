@@ -1,0 +1,6 @@
+﻿@GHLearning.KestrelShutdownTimeout.WebApp_HostAddress = http://localhost:5102
+
+GET {{GHLearning.KestrelShutdownTimeout.WebApp_HostAddress}}/info/
+Accept: application/json
+
+###
